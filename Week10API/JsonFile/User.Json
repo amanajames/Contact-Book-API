@@ -1,0 +1,31 @@
+﻿[
+  {
+    "FirstName": "James",
+    "LastName": "Idakwoji",
+    "Email": "idakwojijames@gmail.com",
+    "Username": "jamesjimmy",
+    "PhoneNumber": "08062588560"
+  },
+  {
+    "FirstName": "Joshua",
+    "LastName": "Audu",
+    "Email": "joshua@gmail.com",
+    "Username": "joshuajimmy",
+    "PhoneNumber": "09062588560"
+  },
+  {
+    "FirstName": "Israel",
+    "LastName": "Idakwoji",
+    "Email": "israelidakwoji@gmail.com",
+    "Username": "israeljimmy",
+    "PhoneNumber": "07062588560"
+  },
+  {
+    "FirstName": "Michael",
+    "LastName": "Idakwoji",
+    "Email": "michael@gmail.com",
+    "UserName": "michael",
+    "PhoneNumber": "08162588560"
+  }
+]
+
